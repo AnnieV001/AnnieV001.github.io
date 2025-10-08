@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Blog
 title: "Titanic Logistic Regression: From Notebook to Blog"
 date: 2025-10-08
 tags: [python, pandas, scikit-learn, logistic-regression, tutorial, titanic]
