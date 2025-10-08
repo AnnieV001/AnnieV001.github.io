@@ -2,7 +2,7 @@
 layout: post
 title: "Titanic Logistic Regression: From Notebook to Blog"
 date: 2025-10-08
-tags: ["python", "pandas", "scikit-learn", "logistic-regression", "tutorial", "titanic"]
+tags: [python, pandas, scikit-learn, logistic-regression, tutorial, titanic]
 # Optional fields for Bay / Jekyll:
 # author: "Annie Vo"
 # description: "Building a Titanic survival classifier in Python—data prep, logistic regression, evaluation, and feature importance."
